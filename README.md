@@ -1,6 +1,4 @@
-# ai-student-burnout-prediction-system
 
-```markdown
 # 🧠 AI Student Burnout Prediction System
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/ML-Prediction-orange.svg)](https://scikit-learn.org/)
@@ -11,7 +9,7 @@ The AI Student Burnout Prediction System is a sophisticated machine learning sol
 
 In an era of increasing academic pressure, this system serves as an early-warning mechanism. By identifying subtle patterns in student stress indicators, it empowers educators and mental health professionals to provide proactive, timely support before burnout reaches a critical stage.
 
-<img width="1888" height="969" alt="Image" src="https://github.com/user-attachments/assets/fcc92b34-01e4-437b-b281-5fbd5eb2d68d" />
+![Project Screenshot](https://github.com/user-attachments/assets/fcc92b34-01e4-437b-b281-5fbd5eb2d68d)
 
 
 🚀 Key Features
